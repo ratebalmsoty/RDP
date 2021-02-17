@@ -1,5 +1,5 @@
 #! /bin/bash
-printf "Check Out My Channel While Waiting- https://youtube.com/almsoty" >&2
+printf "Check Out My website While Waiting- https://www.almsoty.com/Free-google-colab-vps-vnc-rdp-linux-for-unlimited-times-with-high-speed-internet" >&2
 {
 sudo useradd -m ALOK
 sudo adduser ALOK sudo
